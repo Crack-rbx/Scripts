@@ -1,11 +1,26 @@
 {
   "70411440483149": {
-    "hubs": ["Xstar"]
+    "hubs": [
+      {
+        "name": "Xstar",
+        "raw": "https://raw.githubusercontent.com/Crack-rbx/Scripts/main/Roblox/100-Days-At-Sea%20Xstar.lua"
+      }
+    ]
   },
   "85245205758607": {
-    "hubs": ["Xstar"]
+    "hubs": [
+      {
+        "name": "Xstar",
+        "raw": "https://raw.githubusercontent.com/Crack-rbx/Scripts/main/Roblox/Paint-or-Seek%20Xstar.lua"
+      }
+    ]
   },
   "3678761576": {
-    "hubs": ["Xstar"]
+    "hubs": [
+      {
+        "name": "Xstar",
+        "raw": "https://raw.githubusercontent.com/Crack-rbx/Scripts/main/Roblox/Entrenched%20Xstar.lua"
+      }
+    ]
   }
 }
