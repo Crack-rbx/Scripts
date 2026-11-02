@@ -1,6 +1,4 @@
 # Kant Hub
-[![Reviewed on ScriptBlox](https://scriptblox.com/badge/Universal-Script-Kant-Hub-234038)](https://scriptblox.com/script/Universal-Script-Kant-Hub-234038)
-
 **Kant Hub** is a collection of Roblox scripts developed and maintained by **TavSS & Crack-RBX**.
 
 ## Safety
@@ -18,4 +16,4 @@ For transparency, users are encouraged to inspect the source code before executi
 
 ## ScriptBlox
 
-[View Kant Hub on ScriptBlox](https://scriptblox.com/script/Universal-Script-Kant-Hub-Keyless-229326)
+[View Kant Hub on ScriptBlox](https://scriptblox.com/script/Universal-Script-Kant-Hub-234038)
