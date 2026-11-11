@@ -1,0 +1,420 @@
+KANT HUB SOURCE-AVAILABLE LICENSE (KHSAL)
+Version 1.1
+
+Copyright (c) 2026 Crack-RBX and TavssDev. All rights reserved.
+
+IMPORTANT NOTICE. This is a source-available license. It is NOT an open
+source or free software license. The source code of the Work may be read
+and studied, and the Work may be run unmodified for personal,
+non-commercial use only. Any modification, fork, redistribution,
+commercialization, incorporation into other products, or use to train or
+improve other products or services requires the prior, express and
+written Authorization of the Licensors.
+
+TERMS AND CONDITIONS
+
+1. DEFINITIONS
+
+1.1 "Authorization" means prior, express and written permission,
+    specific as to scope and duration, granted jointly by both
+    Licensors, or by a person whom both Licensors have designated in
+    writing to grant it, in accordance with Section 5.4.
+
+1.2 "Copy" means any reproduction of the Work, in whole or in part, in
+    any form, medium or location, whether permanent or temporary.
+
+1.3 "Derivative Work" means any work, in Source Form or Object Form,
+    that is based on, derived from, or incorporates the Work or any
+    portion of it, including modifications, adaptations, translations,
+    ports, forks, patches, extensions and compilations.
+
+1.4 "License" means these terms and conditions.
+
+1.5 "Licensors" means Crack-RBX and TavssDev, the joint copyright
+    holders of the Work, together. A reference to "Licensor" means the
+    Licensors or either of them, as the context requires.
+
+1.6 "Object Form" means any form resulting from mechanical
+    transformation or translation of Source Form, including compiled,
+    packaged, obfuscated or minified code.
+
+1.7 "Personal Non-Commercial Use" means use of the Work by You, as an
+    individual, solely for Your own personal purposes, on devices and
+    accounts under Your control, that is not:
+    (a) made in the course of or in connection with any business,
+        employment, profession or organization;
+    (b) made in exchange for, or to obtain, directly or indirectly, any
+        payment, compensation or other commercial advantage;
+    (c) made for the benefit of any third party, or to provide any third
+        party with access to the Work or its functionality; or
+    (d) made in connection with monetized content or activity (such as
+        monetized videos, streams, or sponsored or promotional
+        material) that uses or features the Work.
+
+1.8 "Platform" means any third-party game, service, website,
+    marketplace, application or online environment with which the Work
+    interacts, on which the Work is used, or on which the Work is
+    hosted.
+
+1.9 "Source Form" means the preferred form of the Work for making
+    modifications, including source code and associated files.
+
+1.10 "Third-Party Materials" means any component, library, asset, font,
+     API or service that was not authored by the Licensors and is
+     subject to its own license or terms, whether included in or
+     interoperating with the Work.
+
+1.11 "Work" means the Kant Hub software, including its source code, the
+     loader, the user interface engine, scripts, assets, documentation
+     and any other related files and versions published or made
+     available by the Licensors, in Source Form or Object Form, but
+     excluding Third-Party Materials.
+
+1.12 "You" (or "Your") means the natural person who accepts this
+     License and exercises the rights granted under it. It does not
+     include any legal entity, organization or group, or any person
+     acting on behalf of or for the benefit of one.
+
+2. ACCEPTANCE, EFFECTIVE DATE AND TERM
+
+2.1 Acceptance. This License is offered to any person who obtains or
+    accesses the Work. By downloading, running or otherwise exercising
+    any right granted by this License, or by indicating Your agreement
+    through any available mechanism, You accept this License in full.
+    If You do not accept all of its terms, You have no rights under
+    this License, and any access to, use or Copy of the Work is
+    unauthorized.
+
+2.2 Effective Date. This License takes effect, as between You and the
+    Licensors, on the earliest date on which You perform any act of
+    acceptance under Section 2.1.
+
+2.3 Capacity. You represent that You are at least eighteen (18) years
+    old and legally capable. If You are under eighteen (18), You may
+    accept this License only if Your parent or legal guardian has read
+    and agreed to it and represents or assists You as required by law.
+
+2.4 Term and Territory. Unless terminated earlier under Section 11, this
+    License applies from the Effective Date for an indefinite term and
+    throughout the world. The Licensors expressly stipulate this term
+    and territory.
+
+2.5 New Versions. The Licensors may publish new versions of this
+    License. A new version applies to versions of the Work obtained or
+    used after its publication. Continued use of the Work after
+    publication of a new version constitutes acceptance of it. If You
+    do not accept a new version, You must stop using the Work. Rights
+    and obligations already accrued are not affected.
+
+3. GRANT OF RIGHTS
+
+3.1 Subject to Your continued compliance with this License, the
+    Licensors grant You a limited, non-exclusive, non-transferable,
+    non-sublicensable, revocable and royalty-free license to:
+    (a) read and study the Work in Source Form;
+    (b) run the Work, unmodified and in the form made available by the
+        Licensors, for Your Personal Non-Commercial Use; and
+    (c) make only the temporary, incidental or technical Copies
+        strictly necessary to exercise the rights in (a) and (b), on
+        devices under Your control.
+
+3.2 No Other Rights. No other rights are granted. No license or right
+    arises by implication, estoppel, publication of the Work, course of
+    dealing or silence. No license is granted under any trademark or
+    patent.
+
+3.3 Mandatory Law. Nothing in this License is intended to restrict any
+    right that You hold under provisions of mandatory law that cannot
+    be waived or limited by contract, including, to the extent
+    applicable, Article 6 of Law No. 9.609/98 and Articles 46 to 48 of
+    Law No. 9.610/98, which may be exercised only within the conditions
+    and limits established by law. This Section does not grant any
+    additional right.
+
+3.4 Hosting Platforms. Where the Work is made available on a Platform
+    whose terms grant its users limited rights over hosted content
+    (such as viewing or copying within that Platform's own
+    functionality), those rights arise solely under that Platform's
+    terms, are limited to their scope, and are not enlarged by this
+    License. Any use, Copy or distribution outside that scope remains
+    subject to this License.
+
+4. RESTRICTIONS
+
+4.1 Without Authorization, You shall not, and shall not permit, assist
+    or induce any third party to, directly or indirectly:
+    (a) modify, adapt, translate, port, extend, patch or otherwise
+        alter the Work, or create, fork or maintain any Derivative
+        Work;
+    (b) decompile, disassemble, reverse engineer, deobfuscate,
+        de-minify, unpack, or otherwise attempt to derive Source Form
+        from Object Form or to discover non-public algorithms, keys,
+        tokens, endpoints or protection logic of the Work;
+    (c) circumvent, disable, remove or tamper with any technical
+        protection measure, access control, license key, key system,
+        integrity check, obfuscation or rights-management information
+        of the Work;
+    (d) copy, reproduce, redistribute, publish, post, mirror, host,
+        re-upload, fork, share or otherwise make available to any
+        third party the Work, in whole or in part, on any platform,
+        repository, paste service, forum, messaging service or
+        storage service, or by any other means or medium, whether
+        free of charge or not, except as permitted by Section 3;
+    (e) sell, resell, sublicense, rent, lease, lend for consideration,
+        offer as a service, or otherwise commercialize or economically
+        exploit the Work, directly or indirectly, including by placing
+        the Work or access to it behind paid access, subscriptions,
+        advertising, ad-monetized links, referral or affiliate links,
+        or revenue-generating key systems;
+    (f) incorporate, embed, bundle or combine the Work, or any part of
+        it, into or with any other software, product or service;
+    (g) use the Work, in whole or in part, including its Source Form,
+        to build, train, fine-tune, develop or improve any other
+        product, service, software or model, or as input, training
+        data or retrieval material for any machine learning,
+        artificial intelligence or code generation system or dataset,
+        or collect it by automated scraping or mining;
+    (h) remove, alter or obscure any copyright notice, credit, license
+        text, attribution, trademark or rights-management information
+        contained in the Work;
+    (i) present the Work, or any part of it, as Your own or as
+        originating from anyone other than the Licensors, including by
+        rebranding, re-skinning or plagiarism, or imply any
+        affiliation with or endorsement by the Licensors;
+    (j) share, sell or transfer any key, credential, token or access
+        obtained in connection with the Work; or
+    (k) use the Work in any manner not expressly permitted by Section 3
+        or after this License has terminated.
+
+4.2 Partial Use. The restrictions in Section 4.1 apply to the Work in
+    whole or in part, with no minimum threshold, including any portion
+    of the source code, assets, configurations, structure, interface
+    layouts, comments and identifiers, to the extent such portion is
+    protected by copyright or otherwise subject to this License.
+
+4.3 Scope. These restrictions apply to the Work and to the acts listed
+    in Section 4.1. They are not intended to extend protection to
+    ideas, concepts, procedures or methods as such, to the extent that
+    mandatory law excludes them from protection.
+
+5. OWNERSHIP, AUTHORSHIP AND RESERVATION OF RIGHTS
+
+5.1 Ownership. The Work is licensed, not sold. All rights, title and
+    interest in the Work, including copyright, remain exclusively with
+    the Licensors. Nothing in this License assigns or transfers any
+    such right.
+
+5.2 Moral Rights. The Licensors retain all moral rights in the Work,
+    including the right to claim authorship and to object to
+    unauthorized alterations. Nothing in this License waives them.
+
+5.3 Authorized Derivative Works. Any Authorization to create or
+    distribute a Derivative Work does not transfer any right in the
+    Work. For purposes of Article 5 of Law No. 9.609/98, the Licensors
+    stipulate that any exploitation of an authorized Derivative Work
+    remains subject to this License and to the terms of the
+    Authorization, and that the Licensors' rights in the underlying
+    Work are unaffected. The ownership of original contributions
+    contained in a Derivative Work shall be governed by the written
+    terms of the Authorization.
+
+5.4 Form of Authorization. An Authorization is valid only if it is in
+    writing (including a signed or otherwise verifiable electronic
+    document or message sent through the Licensors' official contact
+    channels), complies with Section 1.1, and states its scope. No
+    Authorization arises orally, impliedly, through delay or through
+    tolerance. Each Authorization is non-transferable and is
+    interpreted restrictively.
+
+5.5 Names and Marks. This License grants no right to use the names
+    "Kant Hub", "Crack-RBX" and "TavssDev", or any logo, mark or
+    identifier of the Licensors.
+
+5.6 Reservation of Rights. All rights not expressly granted in this
+    License are reserved by the Licensors.
+
+6. THIRD-PARTY MATERIALS
+
+6.1 Third-Party Materials are not covered by this License. They remain
+    the property of their respective owners and are subject to their
+    own licenses or terms, which prevail over this License as to those
+    materials.
+
+6.2 Nothing in this License limits any right granted to You by the
+    license of a Third-Party Material in respect of that material.
+
+6.3 The Licensors make no representation about Third-Party Materials,
+    and You are solely responsible for complying with their licenses
+    and terms.
+
+7. FEEDBACK
+
+7.1 "Feedback" means any suggestion, comment, bug report or idea that
+    You voluntarily send to the Licensors. The Licensors do not accept
+    code contributions unless agreed in a written Authorization.
+
+7.2 You grant the Licensors a worldwide, perpetual, irrevocable,
+    royalty-free, non-exclusive and sublicensable license to use,
+    reproduce, adapt and otherwise exploit Feedback in all modalities
+    of use existing on the date of submission. You represent that You
+    have the right to grant this license. The Licensors have no
+    obligation to use, credit or compensate Feedback. Submitting
+    Feedback grants You no right in the Work.
+
+8. THIRD-PARTY PLATFORMS
+
+8.1 The Work is not affiliated with, endorsed by or sponsored by any
+    Platform.
+
+8.2 You are solely responsible for complying with the terms, rules and
+    policies of any Platform and for any consequence of using the Work
+    on or in connection with a Platform. The Licensors do not warrant
+    that any use of the Work is permitted by any Platform.
+
+9. DISCLAIMER OF WARRANTIES
+
+9.1 To the maximum extent permitted by applicable law, the Work is
+    provided "AS IS" and "AS AVAILABLE", without warranties or
+    conditions of any kind, express or implied, including any warranty
+    of title, non-infringement, merchantability, fitness for a
+    particular purpose, security, availability, or compatibility with
+    any Platform. You assume all risks associated with using the Work.
+
+9.2 The Licensors have no obligation to provide support, maintenance or
+    updates, and may modify, suspend or discontinue the Work or any
+    related service at any time.
+
+10. LIMITATION OF LIABILITY
+
+10.1 To the maximum extent permitted by applicable law, the Licensors
+     shall not be liable to You for any damages, including direct,
+     indirect, special, incidental or consequential damages, loss of
+     profits, loss of data, accounts, virtual items or access, arising
+     out of the use of or inability to use the Work, including any
+     sanctions, suspensions or bans imposed by third-party Platforms.
+
+10.2 Because this License is granted free of charge, the Licensors'
+     liability is limited to the cases provided by law for gratuitous
+     contracts, including, to the extent applicable, Article 392 of the
+     Brazilian Civil Code.
+
+10.3 Nothing in this License excludes or limits any liability that
+     cannot be excluded or limited under mandatory law, including
+     liability for willful misconduct (dolo) or gross negligence and,
+     where applicable, rights under consumer protection law.
+
+11. TERMINATION AND REVOCATION
+
+11.1 Automatic Termination. Any breach of this License automatically
+     terminates the rights granted to You, immediately and without
+     notice or judicial intervention. This is an express termination
+     clause.
+
+11.2 Revocation. The Licensors may revoke the License at any time, for
+     any reason, by notice published on the Licensors' official
+     distribution channel or sent to You. Revocation takes effect:
+     (a) immediately, where it is based on Your breach, on legal,
+         security or Platform requirements, or on a third-party claim;
+         and
+     (b) in all other cases, seven (7) days after the notice.
+
+11.3 Termination by You. You may terminate this License at any time by
+     ceasing all use of the Work and deleting all Copies.
+
+11.4 Effects. Upon termination or revocation: (a) all rights granted
+     to You end; (b) You must immediately stop using the Work; (c) You
+     must delete all Copies in Your possession or control, including
+     backups and caches, immediately and in any event within seven (7)
+     days; (d) You must confirm compliance in writing upon request; and
+     (e) the Licensors may use technical means to disable the Work or
+     revoke keys.
+
+11.5 Reinstatement. The Licensors may, at their sole discretion,
+     reinstate rights in writing. No reinstatement arises by implication.
+
+11.6 Survival. Sections 4 to 7, 9, 10, 11.4, 12, 13 and 14, and any
+     liability for acts prior to termination, survive termination.
+
+12. VIOLATION AND REMEDIES
+
+12.1 Any act contrary to Section 3 or 4, or outside the scope of this
+     License, is unauthorized and may constitute, cumulatively, a
+     breach of contract, an infringement of the Licensors' rights under
+     Laws No. 9.609/98 and 9.610/98 and, where applicable, a criminal
+     offense.
+
+12.2 You are solely responsible for Your acts and for acts of any
+     person using the Work through You, Your devices or Your
+     credentials.
+
+12.3 The Licensors may take all measures available under law,
+     including: injunctions and orders to do or refrain from doing
+     (with coercive fines); seizure, suspension or removal of
+     infringing Copies or content; compensation for material and moral
+     damages; and notices to hosting providers, Platforms and
+     intermediaries. To the extent permitted by law, You shall bear the
+     costs of enforcement, including attorneys' fees.
+
+12.4 You acknowledge that a breach may cause damage that is difficult
+     or impossible to repair, justifying provisional relief.
+
+12.5 Remedies are cumulative and not exclusive of any other remedy
+     available by law.
+
+13. GOVERNING LAW AND DISPUTE RESOLUTION
+
+13.1 This License is governed by the laws of the Federative Republic of
+     Brazil, excluding its conflict-of-law rules.
+
+13.2 The parties are encouraged to attempt to resolve disputes amicably
+     through the Licensors' official contact channel. This is not a
+     condition precedent to legal action and does not prevent urgent
+     relief.
+
+13.3 The courts of the judicial district of [CITY/STATE], Brazil, have
+     exclusive jurisdiction over disputes arising out of this License,
+     without prejudice to mandatory rules granting You the right to be
+     sued, or to sue, in another forum, including, where applicable, the
+     forum of Your domicile as a consumer, and without prejudice to the
+     Licensors' right to seek urgent relief in the courts of the place
+     where the infringement occurs.
+
+13.4 No arbitration clause is adopted.
+
+14. GENERAL PROVISIONS
+
+14.1 Entire Agreement. This License, together with any written
+     Authorization, constitutes the entire agreement between You and the
+     Licensors regarding the Work.
+
+14.2 Severability. If any provision is held invalid or unenforceable,
+     it shall be applied to the maximum extent permitted and the
+     remaining provisions remain in force.
+
+14.3 No Waiver. Failure or delay in exercising any right is not a
+     waiver of it.
+
+14.4 Assignment. The Licensors may assign their rights under this
+     License. You may not assign or transfer this License or any right
+     under it.
+
+14.5 Interpretation. Headings are for convenience only. "Including"
+     means "including without limitation". Rights granted are
+     interpreted restrictively, in accordance with applicable
+     copyright law.
+
+14.6 Language. This License is drafted in English. Any translation is
+     provided for convenience only and, to the extent permitted by law,
+     the English version prevails.
+
+14.7 Notices. Notices to You may be given by publication on the
+     Licensors' official distribution channels or by electronic
+     message. Notices to the Licensors must use the contact channels
+     published there.
+
+14.8 Personal Data. To the extent the Work or related services process
+     personal data, such processing is carried out in accordance with
+     Law No. 13.709/2018 (LGPD) and any privacy notice published by the
+     Licensors.
+
+END OF TERMS AND CONDITIONS
